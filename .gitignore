@@ -1,0 +1,21 @@
+.vscode/
+index.html
+package.json
+Game.rpgproject
+img/
+audio/
+# data/
+fonts/
+icon/
+movies/
+save/
+js/libs/
+js/main.js
+js/plugins.js
+js/rpg_core.js
+js/rpg_managers.js
+js/rpg_objects.js
+js/rpg_scenes.js
+js/rpg_sprites.js
+js/rpg_windows.js
+js/plugins/Community_Basic.js
